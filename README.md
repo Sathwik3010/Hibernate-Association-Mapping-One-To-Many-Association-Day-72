@@ -1,1 +1,1 @@
-hibernate_04
+project hibernate_04 in eclipse ide
